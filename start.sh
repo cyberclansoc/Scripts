@@ -1,1 +1,1 @@
-sudo tailscale up --authkey tskey-auth-kGMD2p4CNTRL-pzsfum8CfWisQPPwn2wfWinjUxdRrfkta
+sudo tailscale up --authkey tskey-auth-kcvQ986CNTRL-m8F9VFJ5yza6Gy7oFYLxzaBbf4DercwF
